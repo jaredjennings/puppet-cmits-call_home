@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/call_home",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the call_home module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-call_home",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-call_home",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-call_home/issues",
+  "dependencies": []
+}
+
