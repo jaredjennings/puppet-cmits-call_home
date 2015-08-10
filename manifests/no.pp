@@ -16,5 +16,6 @@
 # \subsection{Disable ``call home'' services}
 
 class call_home::no {
-    include "call_home::no::${::osfamily}"
+    $lower_osfamily = downcase($::osfamily)
+    include "call_home::no::${lower_osfamily}"
 }
